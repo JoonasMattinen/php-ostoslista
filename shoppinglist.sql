@@ -1,6 +1,6 @@
-create database ostoslista;
+create database shoppinglist;
 
-use ostoslista;
+use shoppinglist;
 
 create table item (
     id int primary key auto_increment,
