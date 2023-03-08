@@ -9,3 +9,6 @@ create table item (
 );
 
 insert into item (description,amount) values ('Test item',1);
+insert into item (description,amount) values ('Test item2',2);
+insert into item (description,amount) values ('Test item3',5);
+insert into item (description,amount) values ('Test item4',7);
